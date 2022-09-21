@@ -1,2 +1,2 @@
 file will be updated
-This updated file
+This is updated file
